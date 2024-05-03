@@ -1,3 +1,2 @@
-let submitBtn = document.getElementById('submit');
+let submitBtn = document.getElementById("submit");
 submitBtn.style = "background-color: springgreen";
-
